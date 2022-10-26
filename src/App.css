@@ -1,0 +1,35 @@
+
+.navbar{
+  background-color: rgb(57, 0, 212);
+  padding-top: 0%;
+}
+
+.listadoItems{
+  padding: 2%;
+  padding-left: 25rem;
+
+}
+
+.items{
+  color: aliceblue;
+  padding-left: 8rem;
+  font-size: 1vw;
+}
+
+h1{
+  color: aliceblue;
+  font-size: 2rem;
+  font-family:inherit;
+  padding-top: 0%;
+}
+
+.cartWidget{
+  padding-left: 90%;
+  height: 2rem;
+  color: aliceblue;
+}
+
+.cartShopping{
+  height: 2rem;
+  color: aliceblue;
+}
